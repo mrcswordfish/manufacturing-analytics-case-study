@@ -197,4 +197,4 @@ Full DAX library, including production variance and yield KPIs, can be defined i
 **Marc Lomuntad**  
 ERP / BI Analyst in Training  
 📧 marc.lomuntad24@gmail.com  
-🔗 LinkedIn: [Your LinkedIn URL]
+🔗 LinkedIn: https://www.linkedin.com/in/marc-lomuntad-052943278/
