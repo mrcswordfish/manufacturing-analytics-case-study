@@ -161,27 +161,6 @@ Full DAX library, including production variance and yield KPIs, can be defined i
 
 ---
 
-## 📁 Suggested Repo Structure
-
-```text
-.
-├─ SQL/
-│  ├─ create_tables.sql
-│  └─ seed_data.sql
-├─ PowerBI/
-│  └─ Manufacturing_Production_Analytics.pbix
-├─ docs/
-│  ├─ Manufacturing_Analytics_Case_Study.pdf
-│  └─ Manufacturing_Analytics_Deck.pptx
-├─ img/
-│  ├─ otd_dashboard.png
-│  ├─ margin_dashboard.png
-│  └─ production_oee_dashboard.png
-└─ README.md
-```
-
----
-
 ## 🧩 Skills Demonstrated
 - SQL Server relational modeling  
 - Power BI star schema design  
@@ -195,6 +174,5 @@ Full DAX library, including production variance and yield KPIs, can be defined i
 ## 📬 Contact
 
 **Marc Lomuntad**  
-ERP / BI Analyst in Training  
 📧 marc.lomuntad24@gmail.com  
 🔗 LinkedIn: https://www.linkedin.com/in/marc-lomuntad-052943278/
